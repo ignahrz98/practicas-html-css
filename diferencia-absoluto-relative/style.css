@@ -1,0 +1,18 @@
+.parent {
+	background: #AFEAF3;
+	border: 3px solid #000000;
+	height: 400px;
+	width: 400px;
+	padding: 1em;
+	margin: auto;
+	position: relative;
+}
+
+.child {
+	background: #2CB715;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 30%;
+	right: 30%;
+}
